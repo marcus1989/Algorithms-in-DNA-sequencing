@@ -2,7 +2,7 @@
 
 """kmer_index.py: A k-mer index for indexing a text."""
 
-__author__ = "Ben Langmead"
+__author__ = "ambat"
 
 import bisect
 
